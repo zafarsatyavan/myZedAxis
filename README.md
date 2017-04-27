@@ -6,5 +6,5 @@ Each ZedAxisProfile (8 box + 1 circle) has three levels : (8 x 3) + (1 x 4 x 3)<
 Icons: 8 x 3 (with unique identifiers)<br>
 Quadrants: 3 x 3 (unique iD)<br>
 Active Circles: 1 clockwise (WHW/WWW) + 1 anti-clockwise (Enneagram of Personality - RHETI)<br> + 1 triangular {originating @ 0 deg, (zap programmed) 120 deg (objective) & 240 deg (subjective)}<br>
-Advanced Level - Soul Activation<br>
+Advanced Level//(Certified-in-Person Users) - Soul Activation<br>
 Advanced - spot.Z (Simultaneous Perception of Time and the Awareness of the Z Axis)<br>
